@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a07ff921946d0e0642df2f4adde225412e4011ee8c5b973701f188eb0ce923da
-size 128
+timestamp,command,result_param2,target_component,result,result_param1,target_system,from_external
+106823563,400,0,190,0,0,255,0

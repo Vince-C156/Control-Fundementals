@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c6d2f8fc893ee03257bf2a196130b792319790f35e3bc5664258117e35011dc
-size 1802
+timestamp,timestamp_sample,position_drift_rate_horizontal_m_s,position_drift_rate_vertical_m_s,filtered_horizontal_speed_m_s,checks_passed,check_fail_gps_fix,check_fail_min_sat_count,check_fail_max_pdop,check_fail_max_horz_err,check_fail_max_vert_err,check_fail_max_spd_err,check_fail_max_horz_drift,check_fail_max_vert_drift,check_fail_max_horz_spd_err,check_fail_max_vert_spd_err
+81350302,81228891,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+82350240,82232707,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+83353680,83231357,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+84349963,84230585,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+85349874,85231422,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+86349939,86226928,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+87350012,87230167,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+88349977,88228876,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+89350029,89226535,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+90353821,90229842,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+91353924,91230398,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+92350186,92230326,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+93349815,93229544,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+94349848,94226375,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+95349847,95231878,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+96349957,96229539,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+97350048,97231110,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+98353668,98231008,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+99353880,99227730,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+100349845,100233218,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+101349941,101230232,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+102343758,102227905,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+103350292,103233728,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+104350022,104232465,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+105359914,105235116,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+106353732,106231887,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0
+107349946,107229529,nan,nan,nan,1,0,0,0,0,0,0,0,0,0,0

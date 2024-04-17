@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5396a4ba41250bb17ee5b4d5fa4ee4058b34743f2e61f6fcbbc2e0cf3d07a66f
-size 67
+timestamp,accel_device_id,gyro_device_id
+107794763,2424842,2424842
